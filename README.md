@@ -14,7 +14,7 @@ The goal of the Tabular Playground Series is to provide the Kaggle community wit
 
 This dataset contains 50,000 records of student bags, featuring various attributes relevant for predicting the price of a bag. It is intentionally designed with duplicates, missing values, and noise to simulate a realistic scenario for data cleaning, preprocessing, and exploratory data analysis (EDA) tasks. 🧹
 
-- Download the dataset from here: [Kaggle Dataset](https://www.kaggle.com/datasets/souradippal/student-bag-price-prediction-dataset) 📥
+- Download the dataset from here: [Kaggle Dataset](https://www.kaggle.com/competitions/playground-series-s5e2/data) 📥
 
 ## Dataset Features 📝
 
