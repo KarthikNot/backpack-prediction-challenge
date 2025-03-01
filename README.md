@@ -1,6 +1,8 @@
-# <center><i>Kaggle Challenge 🎉</i></center>
+# <center><i>Kaggle Challenge</i></center>
 
-# <center>BackPack Prediction Challenge [link](https://www.kaggle.com/competitions/playground-series-s5e2) 🎒</center>
+# <center> BackPack Prediction Challenge [[link]](https://www.kaggle.com/competitions/playground-series-s5e2) <center>
+
+## <center>Playground Series - Season 5, Episode 2 <center>center>
 
 ## Challenge Objective 🎯
 
@@ -28,15 +30,6 @@ This dataset contains 50,000 records of student bags, featuring various attribut
 - **`Price`**: The price of the bag in USD 💵
 
 <br>
-
-## Best Model 🤖
-
-<div style="text-align:center;">
-    <div style="display:inline-block; margin: 20px;">
-        <h3>Histogram-based Gradient Boosting Regressor 📈</h3>
-        <img src="./static/model.jpg" alt="Histogram-based Gradient Boosting Regressor">
-    </div>
-</div>
 
 ## How to Set Up This Project 🛠️
 
