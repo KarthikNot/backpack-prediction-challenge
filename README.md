@@ -2,7 +2,7 @@
 
 # <center> BackPack Prediction Challenge [[link]](https://www.kaggle.com/competitions/playground-series-s5e2) <center>
 
-## <center>Playground Series - Season 5, Episode 2 <center>center>
+## <center>Playground Series - Season 5, Episode 2 <center>
 
 ## Challenge Objective 🎯
 
